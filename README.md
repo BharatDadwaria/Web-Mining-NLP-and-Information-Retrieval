@@ -6,6 +6,7 @@ I have implemented all the code in python. Through out this repository i have tr
 
 
 ## learning resources : 
+* JNU (Jawaharlal Nehru University, New Delhi) Web Mining course by Dr. Aditi Sharan : https://www.jnu.ac.in/content/aditisharan
 * Stanford Speech and Language Processing : https://web.stanford.edu/~jurafsky/slp3/
 * Youtube Sentdex playlist on Natural Language Processing With Python and NLTK : https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL
 
